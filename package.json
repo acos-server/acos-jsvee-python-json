@@ -1,0 +1,18 @@
+{
+  "name": "acos-jsvee-python-json",
+  "version": "0.1.0",
+  "description": "Jsvee content package that downloads the definitions from external URL",
+  "main": "index.js",
+  "scripts": {
+  },
+  "peerDependencies": {
+    "acos-jsvee": "^0.1.0",
+    "acos-jsvee-python": "^0.1.0"
+  },
+  "author": "Teemu Sirkiä",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acos-server/acos-jsvee-python-json.git"
+  }
+}
