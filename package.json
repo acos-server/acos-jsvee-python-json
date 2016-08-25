@@ -1,10 +1,9 @@
 {
   "name": "acos-jsvee-python-json",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Jsvee content package that downloads the definitions from external URL",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "peerDependencies": {
     "acos-jsvee": "^0.2.0",
     "acos-jsvee-python": "^0.2.0"
