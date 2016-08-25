@@ -6,8 +6,8 @@
   "scripts": {
   },
   "peerDependencies": {
-    "acos-jsvee": "^0.1.0",
-    "acos-jsvee-python": "^0.1.0"
+    "acos-jsvee": "^0.2.0",
+    "acos-jsvee-python": "^0.2.0"
   },
   "author": "Teemu Sirkiä",
   "license": "MIT",
